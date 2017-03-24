@@ -1,3 +1,21 @@
+<a name="v0.5.1"></a>
+## v0.5.1 (2017-03-24)
+
+
+#### Documentation
+
+*   fix missing backticks ([44bafaaf](https://github.com/indiv0/lazycell/commit/44bafaaf93a91641261f58ee38adadcd4af6458e))
+
+#### Improvements
+
+*   derive `Debug` impls ([9da0a5a2](https://github.com/indiv0/lazycell/commit/9da0a5a2ffac1fef03ef02851c2c89d26d67d225))
+
+#### Features
+
+*   Add get method for Copy types ([dc8f8209](https://github.com/indiv0/lazycell/commit/dc8f8209888b6eba6d18717eba6a22614629b997))
+
+
+
 <a name="v0.5.0"></a>
 ## v0.5.0 (2016-12-08)
 
