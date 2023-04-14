@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "lazycell",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "1.4.0",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/indiv0/lazycell",
+    "Description": "A Rust library that provides support for lazy-initialized static variables."
+  }
+]
